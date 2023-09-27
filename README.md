@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 Hosting URL: https://habit-tracking-app-c1d97.web.app
 
 ## Available Scripts
